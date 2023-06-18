@@ -37,7 +37,7 @@ git status # to see your changes
 ```
 
 ```
-git add --all # If you are satisfied with your changes and willing to push everything. Otherwise, select only the files to add
+git add --all # If you are satisfied with your changes and willing to push everything. Otherwise, select only the files to add. my first
 ```
 
 ```
