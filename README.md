@@ -75,4 +75,4 @@ Default web root:
 
 Hello, learning Devops.
 
-checking jENKI
+checking Jenkins
